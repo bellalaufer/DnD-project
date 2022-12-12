@@ -13,4 +13,5 @@ table {
 
 th, td {
     padding: 7px 10px 10px 10px;
+    border: 1px solid black;
 }
